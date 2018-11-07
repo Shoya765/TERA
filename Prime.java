@@ -1,4 +1,4 @@
-//100ˆÈ‰º‚Ì‘f”‚ğ•\¦‚·‚é
+
 class Prime{
 public static void main(String[] args){
 
